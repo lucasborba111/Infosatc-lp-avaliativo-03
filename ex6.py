@@ -1,5 +1,5 @@
 
-for i in range(0, 2):
+for i in range(0, 5):
     idade = int(input("Idade:"))
     peso = float(input("Peso:"))
     sono = input("Dormiu 6 horas nas últimas 24 horas?")
